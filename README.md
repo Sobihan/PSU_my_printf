@@ -1,7 +1,8 @@
 # PSU_my_printf
 Recodage de la fonction printf
 
-#Les flags : 
+Les flags : 
+
 # d, i
 # s
 # %
@@ -11,3 +12,5 @@ Recodage de la fonction printf
 # x
 # X
 # p
+
+Ajout des Tests criterions dans le dossier tests
