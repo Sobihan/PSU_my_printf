@@ -1,4 +1,4 @@
-# PSU_my_printf/ Attention -42 !
+# PSU_my_printf/ Attention à -42 !
 Recodage de la fonction printf
 
 Les flags : 
